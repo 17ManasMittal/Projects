@@ -1,0 +1,88 @@
+body {
+    background-color: #355764;
+    padding: 0px;
+    margin: 0px;
+}
+
+#home_page {
+    background-color: #d4f6cc;
+    top: "25vh";
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 25vh;
+    width: 50vw;
+}
+
+#login_home_page {
+    background-color: #81cacf;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 45vh;
+    width: 50vw;
+    padding-bottom: 25px;
+}
+
+#register_home_page {
+    background-color: #81cacf;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 60vh;
+    width: 40vw;
+    padding-bottom: 25px;
+}
+
+#header {
+    background-color: #d4f6cc;
+    height: 8vh;
+    width: 101vw;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+
+#left_sidebar table tr {
+    background-color: #0096ff;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+#logout_link {
+    text-decoration: none;
+    color: white;
+}
+
+#update {
+    color: white;
+}
+
+#left_sidebar {
+    margin-top: 50px;
+    width: 13vw;
+    height: 30vh;
+    display: inline-block;
+}
+
+#left_sidebar table tr:hover {
+    background-color: #d4f6cc;
+    color: black;
+}
+
+#logout_link:hover {
+    color: black;
+}
+
+#update:hover {
+    color: black;
+}
+
+.link:hover {
+    color: black;
+}
+
+.link {
+    color: white;
+}
